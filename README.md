@@ -8,6 +8,7 @@ This project is created for the Microsoft Future Ready Talent Virtual Internship
 <b>Industry :</b> Earth
 
 <br>
+
 ### Project Github Repository Link : 
 ### Project Demo Link : 
 ### Project Demo Video Link : 
@@ -15,6 +16,8 @@ This project is created for the Microsoft Future Ready Talent Virtual Internship
 <br>
 This project aims to integrate environmental awareness into traditional mapping functionalities to address the significant environmental impacts of travel. By providing comprehensive navigation features and highlighting the carbon footprint of different transport options, this project empowers users to make informed decisions and choose eco-friendly travel routes. This project combines modern mapping technology with a commitment to sustainability, encouraging users to travel responsibly and reduce their environmental footprint.
 
+
+<br>
 
 ### Problem Statement : 
 Travel is an essential part of human life, but it contributes significantly to environmental pollution. Traditional maps often overlook providing information about the environmental impact of different travel modes. SmartMaps addresses this problem by offering navigation through various transport options, highlighting their carbon footprint, and recommending the optimal eco-friendly travel route to promote responsible travel.
