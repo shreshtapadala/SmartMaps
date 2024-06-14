@@ -9,7 +9,7 @@ This project is created for the Microsoft Future Ready Talent Virtual Internship
 
 <br>
 
-This project aims to integrate environmental awareness into traditional mapping functionalities to address the significant environmental impacts of travel. By providing comprehensive navigation features and highlighting the carbon footprint of different transport options, this project empowers users to make informed decisions and choose eco-friendly travel routes. This project combines modern mapping technology with a commitment to sustainability, encouraging users to travel responsibly and reduce their environmental footprint.
+This project aims to revolutionize travel navigation by integrating traditional mapping functionalities with environmental awareness features. The project addresses the significant environmental impact of travel by providing users with essential tools to make informed decisions. By highlighting the carbon footprint of different travel modes and recommending optimal eco-friendly routes, this project promotes responsible travel practices. Through a user-friendly interface, the objective is to empower individuals to minimize their environmental footprint while enjoying the benefits of efficient travel navigation.
 
 <br>
 
