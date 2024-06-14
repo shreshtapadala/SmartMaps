@@ -82,11 +82,17 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 
 ![azure_portal](https://github.com/shreshtapadala/SmartMaps/assets/109150089/a1b8392e-41e1-46cc-ad84-33a80b60e6c9)
 
+
+<br>
 <br>
 
-- <b> Azure Resource Group : </b> Screenshot of the Resource Group 'Map' containing the resources: Azure Maps (demo-map), Azure Speech Service (azure-speech-service), and Static Web Apps (web-apps) used for the SmartMaps Project.
+- <b> Azure Resource Group : </b> Screenshot of my Resource Group 'Map' containing the resources: Azure Maps (demo-map), Azure Speech Service (azure-speech-service), and Static Web Apps (web-apps) used for the SmartMaps Project.
 
 ![resource_group](https://github.com/shreshtapadala/SmartMaps/assets/109150089/563cbf7e-b1e3-4950-a6da-af0e6f4e16e4)
 
 <br>
+<br>
 
+- <b> Azure Maps : </b> Screenshot for my Azure Maps Account used for this project.
+
+![azure_maps](https://github.com/shreshtapadala/SmartMaps/assets/109150089/e64e0365-2f46-4e85-a53f-bd9c2c1db47f)
