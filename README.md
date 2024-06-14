@@ -13,8 +13,8 @@ This project aims to revolutionize travel navigation by integrating traditional 
 
 <br>
 
-### Project Github Repository Link : 
-### Project Demo Link : 
+### Project Github Repository Link : https://github.com/shreshtapadala/SmartMaps
+### Project Demo Link : https://salmon-dune-03bdbef00.5.azurestaticapps.net
 ### Project Demo Video Link : 
 
 <br>
@@ -73,3 +73,12 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 2. Azure Static Web Apps : Hosting platform for this project's web application. Azure Static Web Apps ensures scalability, security and enables continous deployment from GitHub, streamlining updates.
 
 3. Azure Speech Services : Implemented to integrate speech functionality into this project, enabling users to recieve audible information. It enhances user experience and interaction by providing spoken feedback.
+
+<br>
+
+### Screenshots
+
+- Azure Portal :
+
+![azure_portal](https://github.com/shreshtapadala/SmartMaps/assets/109150089/a1b8392e-41e1-46cc-ad84-33a80b60e6c9)
+
