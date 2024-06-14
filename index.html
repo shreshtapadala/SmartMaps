@@ -515,19 +515,19 @@
                 var carbonFP = '';
                 switch (travelMode) {
                     case 'car':
-                        carbonFP = (carbonFootprint).toFixed(2) * 216 + "gms of CO₂"; 
+                        carbonFP = (carbonFootprint).toFixed(2) * 216 + "grams of CO₂"; 
                         document.getElementById('carbonfootprint').innerText = carbonFP
                         break;
                     case 'cycling':
-                        carbonFP = carbonFootprint * 0 + "gms of CO₂";
+                        carbonFP = carbonFootprint * 0 + "grams of CO₂";
                         document.getElementById('carbonfootprint').innerText = carbonFP;
                         break;
                     case 'bike':
-                        carbonFP = (carbonFootprint * 120).toFixed(2) + "gms of CO₂";
+                        carbonFP = (carbonFootprint * 120).toFixed(2) + "grams of CO₂";
                         document.getElementById('carbonfootprint').innerText = carbonFP;
                         break;
                     case 'walking':
-                        carbonFP = carbonFootprint * 0 + "gms of CO₂";
+                        carbonFP = carbonFootprint * 0 + "grams of CO₂";
                         document.getElementById('carbonfootprint').innerText = carbonFP;
                         break;
                     default:
@@ -994,7 +994,7 @@
                 } 
                 // Speak route details if CalculateRouteActive is active
                 else if (calculateRouteActive) {
-                    speakText(`This is the travel route to your destination by ${array[0]}.\n The distance from your starting point to the destination is ${array[1]} kilometers. \n The estimated travel time to reach your destination is ${array[2]}. \n The estimated carbon footprint for your journey is approximately ${array[3]} grams of CO₂.`);
+                    speakText(`This is the travel route to your destination by ${array[0]}.\n The distance from your starting point to the destination is ${array[1]} kilometers. \n The estimated travel time to reach your destination is ${array[2]}. \n The estimated carbon footprint for your journey is approximately ${array[3]}.`);
                 }
                 // Speak all routes details if ShowAllRoutesActive is active
                 else if(showAllRoutesActive){
