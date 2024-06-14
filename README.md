@@ -17,8 +17,6 @@ This project is created for the Microsoft Future Ready Talent Virtual Internship
 
 This project aims to integrate environmental awareness into traditional mapping functionalities to address the significant environmental impacts of travel. By providing comprehensive navigation features and highlighting the carbon footprint of different transport options, this project empowers users to make informed decisions and choose eco-friendly travel routes. This project combines modern mapping technology with a commitment to sustainability, encouraging users to travel responsibly and reduce their environmental footprint.
 
-
-<br>
 <br>
 
 ### Problem Statement : 
@@ -51,7 +49,6 @@ The core idea of SmartMaps is to revolutionize how people navigate their travel 
 #### Enhancing User Experience :
 
 - Speech Functionality that Reads Information to the User
-
 
 <br>
 
