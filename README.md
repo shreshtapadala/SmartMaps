@@ -78,7 +78,15 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 
 ### Screenshots
 
-- Azure Portal :
+- <b>Azure Portal : </b> Screenshot of My Azure Portal Home used for building the SmartMaps Project.
 
 ![azure_portal](https://github.com/shreshtapadala/SmartMaps/assets/109150089/a1b8392e-41e1-46cc-ad84-33a80b60e6c9)
+
+<br>
+
+- <b> Azure Resource Group : </b> Screenshot of the Resource Group 'Map' containing the resources: Azure Maps (demo-map), Azure Speech Service (azure-speech-service), and Static Web Apps (web-apps) used for the SmartMaps Project.
+
+![resource_group](https://github.com/shreshtapadala/SmartMaps/assets/109150089/563cbf7e-b1e3-4950-a6da-af0e6f4e16e4)
+
+<br>
 
