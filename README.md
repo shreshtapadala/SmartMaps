@@ -1,1 +1,1 @@
-# SmartMaps
+# SmartMaps : Travel Wisely and Responsibly
