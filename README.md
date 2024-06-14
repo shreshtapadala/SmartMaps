@@ -3,9 +3,9 @@
 This project is created for the Microsoft Future Ready Talent Virtual Internship Program.
 
 <br>
-<b>Title :<b> SmartMaps - Travel Wisely and Responsibly
+<b>Title :</b> SmartMaps - Travel Wisely and Responsibly
 
-<b>Industry :<b> Earth
+<b>Industry :</b> Earth
 
 <br>
 ### Project Github Repository Link : 
