@@ -120,3 +120,9 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 <br>
 <br>
 
+- <b> Screenshot of main page of SmartMaps
+
+![main_page](https://github.com/shreshtapadala/SmartMaps/assets/109150089/e1046f8e-a41b-42b3-abc1-a8fe9152471d)
+
+<br>
+<br>
