@@ -101,14 +101,14 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 <br>
 <br>
 
-- <b> Azure Maps : </b> Screenshot of my Azure Maps Account used for this project to integrate features from Azure Maps API.
+- <b> Azure Maps : </b> Screenshot of my Azure Maps Account used to integrate features from Azure Maps API into SmartMaps.
 
 ![azure_maps](https://github.com/shreshtapadala/SmartMaps/assets/109150089/e64e0365-2f46-4e85-a53f-bd9c2c1db47f)
 
 <br>
 <br>
 
-- <b> Azure Static Web Apps : </b> Screenshot of my Azure Static Web Apps Account used for this project to deploy the web application.
+- <b> Azure Static Web Apps : </b> Screenshot of my Azure Static Web Apps Account used to deploy the web application.
 
 ![azure_static_web_apps](https://github.com/shreshtapadala/SmartMaps/assets/109150089/d438faa2-26d1-486c-a8f8-e2c89333a107)
 
