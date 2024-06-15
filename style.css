@@ -1,0 +1,41 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#myMap {
+    height: 100%;
+    width: 100%;
+}
+#controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.navButton {
+    margin: 5px 0;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.navButton:hover {
+    background-color: #f0f0f0;
+}
+.weather-icon {
+    float: left;
+}
+.weather-content {
+    float: left;
+    margin: 0 10px;
+}
+.weather-temp {
+    font-size: 24px;
+    font-weight: bold;
+}
+.weather-phrase {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+}
