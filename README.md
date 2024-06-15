@@ -127,45 +127,100 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 <br>
 <br>
 
-- <b> Screenshot of results of search operation in SmartMaps </b>
+- <b> Screenshot of results of search for location : Eiffel Tower in SmartMaps </b>
 
 ![search](https://github.com/shreshtapadala/SmartMaps/assets/109150089/171c08c9-9fd2-438d-9350-c94d6641e52c)
 
 <br>
 <br>
 
-- <b> Screenshot of Weather forecase of Location : Secunderabad .</b>
+- <b> Screenshot of Weather forecast of Location : Secunderabad .</b>
 
 ![weather_forecast](https://github.com/shreshtapadala/SmartMaps/assets/109150089/7f6dedc2-e8f8-4d2d-ba15-c3ba85fe3d98)
 
 <br>
 <br>
 
-- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Car. </b>
+- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Car. </b> (Calculate Route Button)
 
 ![travel_mode_car](https://github.com/shreshtapadala/SmartMaps/assets/109150089/130890a8-0315-485a-b5e5-8d23884ad622)
 
 <br>
 <br>
 
-- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Bike. </b>
+- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Bike. </b> (Calculate Route Button)
 
 ![travel_mode_bike](https://github.com/shreshtapadala/SmartMaps/assets/109150089/2e89598a-c4bf-434c-926d-3690d41e3e19)
 
 <br>
 <br>
 
-- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Cycling. </b>
+- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Cycling. </b> (Calculate Route Button)
 
 ![travel_mode_cycling](https://github.com/shreshtapadala/SmartMaps/assets/109150089/e3d45835-8745-4cbe-9c86-ea939611bdb8)
 
 <br>
 <br>
 
-- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Walking. </b>
+- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Walking. </b> (Calculate Route Button) 
 
 ![travel_mode_walking](https://github.com/shreshtapadala/SmartMaps/assets/109150089/6dddba85-fcb6-4a6e-ad7a-557360d06cb1)
 
 <br>
 <br>
 
+- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar for all routes. </b> (Show All routes button)
+
+![show_all_routes](https://github.com/shreshtapadala/SmartMaps/assets/109150089/d7790198-d7d3-4225-88fa-925f4da1a290)
+
+<br>
+<br>
+
+- <b>Screenshot of results of Optimal Way to travel for Start location : Kukatpalli and End Location : LB Nagar </b> (Best Way Button)
+
+![best_way](https://github.com/shreshtapadala/SmartMaps/assets/109150089/a179b62d-837a-4ec4-8a05-7daad52afc0a)
+
+<br>
+<br>
+
+- <b>Screenshot of results of Optimal Way to travel for Start location : Mumbai and End Location : Hyderabad </b> (Best Way Button)
+
+![best_way2](https://github.com/shreshtapadala/SmartMaps/assets/109150089/82b0c006-69de-4d62-b67c-863e7f8833e0)
+
+<br>
+<br>
+
+- <b> Screenshot of results of Optimal Way to travel for Start location : New Delhi and End Location : Noida </b> (Best Way Button)
+
+![best_way3](https://github.com/shreshtapadala/SmartMaps/assets/109150089/97c6eadc-6572-45bb-b2ed-32380cad8737)
+
+<br>
+<br>
+
+- <b> Screenshot of results of Optimal Way to travel for Start location : Rashtrapati Bhavan and End Location : India Gate </b> (Best Way Button)
+
+![best_way4](https://github.com/shreshtapadala/SmartMaps/assets/109150089/b42fbf48-12a2-4d8a-9517-38e92d8b7486)
+
+<br>
+<br>
+
+- <b> Screenshot of the Different Map Styles that are avaliable for users to select. </b>
+
+![map_styles](https://github.com/shreshtapadala/SmartMaps/assets/109150089/fd44a201-a3c3-432a-9f43-1f2881d76942)
+
+<br>
+<br>
+
+- <b> Screenshot of the Traffic Flow Information displayed </b>
+
+![traffic_flow](https://github.com/shreshtapadala/SmartMaps/assets/109150089/36dc218e-874f-4986-b164-61a1a0a03e81)
+
+<br>
+<br>
+
+- <b> Screenshot of the SmartMaps with the color of the Voice Assistant icon changed to LightBlue when enabled </b>
+
+![voice_assistant](https://github.com/shreshtapadala/SmartMaps/assets/109150089/fee3bbe4-f598-4eac-aaf6-a776555f58a0)
+
+<br>
+<br>
