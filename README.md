@@ -120,21 +120,21 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 <br>
 <br>
 
-- <b> Screenshot of main page of SmartMaps </b>
+- <b> Screenshot of main page of SmartMaps.</b>
 
 ![main_page](https://github.com/shreshtapadala/SmartMaps/assets/109150089/e1046f8e-a41b-42b3-abc1-a8fe9152471d)
 
 <br>
 <br>
 
-- <b> Screenshot of results of search for location : Eiffel Tower in SmartMaps </b>
+- <b> Screenshot of results of search for location : Eiffel Tower.</b>
 
 ![search](https://github.com/shreshtapadala/SmartMaps/assets/109150089/171c08c9-9fd2-438d-9350-c94d6641e52c)
 
 <br>
 <br>
 
-- <b> Screenshot of Weather forecast of Location : Secunderabad .</b>
+- <b> Screenshot of Weather forecast of Location : Secunderabad.</b>
 
 ![weather_forecast](https://github.com/shreshtapadala/SmartMaps/assets/109150089/7f6dedc2-e8f8-4d2d-ba15-c3ba85fe3d98)
 
