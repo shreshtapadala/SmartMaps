@@ -82,7 +82,6 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 
 <br>
 
-[Watch Demo Video](https://youtu.be/TlMrBU-4SII)
 
 ### Screenshots
 
