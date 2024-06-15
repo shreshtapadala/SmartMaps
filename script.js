@@ -1,6 +1,4 @@
-
-    <script>
-        var map, searchDatasource, routeDatasource, popup, searchURL, routeURL, timeInSeconds,voiceAssistantEnabled=false, weatherForPointActive=false, searchActive=false, calculateRouteActive=false, showAllRoutesActive=false, bestWayActive=false, zoomIn=false, zoomOut=false, displayTraffic=false, decreasePitch=false, increasePitch=false, rotateRight=false, rotateLeft=false, text = '', array = [];
+var map, searchDatasource, routeDatasource, popup, searchURL, routeURL, timeInSeconds,voiceAssistantEnabled=false, weatherForPointActive=false, searchActive=false, calculateRouteActive=false, showAllRoutesActive=false, bestWayActive=false, zoomIn=false, zoomOut=false, displayTraffic=false, decreasePitch=false, increasePitch=false, rotateRight=false, rotateLeft=false, text = '', array = [];
 
         var currentConditionsUrl = 'https://atlas.microsoft.com/weather/currentConditions/json?api-version=1.1&query={query}';
         
@@ -981,5 +979,3 @@
             // Call asynchronous method to speak the provided text
             synthesizer.speakTextAsync(text);
         }
-
-    </script>
