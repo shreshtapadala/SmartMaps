@@ -134,17 +134,38 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 <br>
 <br>
 
+- <b> Screenshot of Weather forecase of Location : Secunderabad .</b>
+
+![weather_forecast](https://github.com/shreshtapadala/SmartMaps/assets/109150089/7f6dedc2-e8f8-4d2d-ba15-c3ba85fe3d98)
+
+<br>
+<br>
+
 - <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Car. </b>
 
+![travel_mode_car](https://github.com/shreshtapadala/SmartMaps/assets/109150089/130890a8-0315-485a-b5e5-8d23884ad622)
 
-  <br>
-  <br>
+<br>
+<br>
 
-  - <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Bike. </b>
+- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Bike. </b>
 
+![travel_mode_bike](https://github.com/shreshtapadala/SmartMaps/assets/109150089/2e89598a-c4bf-434c-926d-3690d41e3e19)
 
+<br>
+<br>
 
-  <br>
-  <br>
+- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Cycling. </b>
 
-  - <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Bike.
+![travel_mode_cycling](https://github.com/shreshtapadala/SmartMaps/assets/109150089/e3d45835-8745-4cbe-9c86-ea939611bdb8)
+
+<br>
+<br>
+
+- <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Walking. </b>
+
+![travel_mode_walking](https://github.com/shreshtapadala/SmartMaps/assets/109150089/6dddba85-fcb6-4a6e-ad7a-557360d06cb1)
+
+<br>
+<br>
+
