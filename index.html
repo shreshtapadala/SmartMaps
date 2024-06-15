@@ -809,7 +809,7 @@
                         var cyclingTimeInSeconds = cyclingDirections.geojson.getFeatures().features[0].properties.summary.travelTimeInSeconds;
                         
                         if (cyclingTimeInSeconds <= 3600) {
-                            text = "Cycling is the Optimal mode to reach your destination. \n You can arrive in " + (cyclingTimeInSeconds/3600).toFixed(2) + " minutes and also burn " + ((walkingTimeInSeconds/60)*6.5).toFixed(2) + " calories on your journey. \n By choosing to cycle, you're helping to decrease your carbon footprint, reducing traffic congestion and supporting a healthier planet. Enjoy the ride and the positive impact you're making. \n Happy Cycling! 🚴";
+                            text = "Cycling is the Optimal mode to reach your destination. \n You can arrive in " + (cyclingTimeInSeconds/3600).toFixed(2) + " minutes and also burn " + ((walkingTimeInSeconds/60)*6.5).toFixed(2) + " calories on your journey. By choosing to cycle, you're helping to decrease your carbon footprint, reducing traffic congestion and supporting a healthier planet. Enjoy the ride and the positive impact you're making. \n Happy Cycling! 🚴";
                             document.getElementById('bestWayContent').innerText = text;
                             document.getElementById('bestWay').style.display = 'block';
                             handleSpeechSynthesis();
@@ -1111,7 +1111,7 @@
     </div> 
 
     <!-- Container for displaying the best way information -->
-    <div id="bestWay" style="display:none; position:absolute; top: 75%; left: 1%; padding: 1%; width: 25%; background-color: rgba(255, 255, 255, 0.7);">
+    <div id="bestWay" style="display:none; position:absolute; top: 75%; left: 1%; padding: 1%; width: 25%; background-color: rgba(255, 255, 255, 0.8);">
         <b>Best Way :</b><br>
         <span id="bestWayContent"></span>
     </div> 
