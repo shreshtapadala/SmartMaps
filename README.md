@@ -202,7 +202,7 @@ Car is recommended as the Optimal route to reach destination.
 - <b> Screenshot of results of Optimal Way to travel for Start location : New Delhi and End Location : Noida </b> (Best Way Button)
 
 ![best_way3](https://github.com/shreshtapadala/SmartMaps/assets/109150089/97c6eadc-6572-45bb-b2ed-32380cad8737)
-Cycling is recommended as the Optimal Route ro reach destination.
+Cycling is recommended as the Optimal Route to reach destination.
 
 <br>
 <br>
