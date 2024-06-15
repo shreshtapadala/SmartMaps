@@ -795,7 +795,7 @@
                         var walkingTimeInSeconds = walkingDirections.geojson.getFeatures().features[0].properties.summary.travelTimeInSeconds;
 
                         if (walkingTimeInSeconds <= 3600 ) {
-                            text = "Walking is the Optimal mode to reach your destination.\n You can reach your destination in " + (walkingTimeInSeconds/3600).toFixed(2) + "minutes and also burn " + ((walkingTimeInSeconds/60)*4).toFixed(2) + "calories on your journey.\n By choosing to walk, you're making a positive impact on the environment by reducing carbon footprint and contributing to a healthier planet. \n Happy Walking :)";
+                            text = "Walking is the Optimal mode to reach your destination.\n You can reach your destination in " + (walkingTimeInSeconds/3600).toFixed(2) + " minutes and also burn " + ((walkingTimeInSeconds/60)*4).toFixed(2) + " calories on your journey.\n By choosing to walk, you're making a positive impact on the environment by reducing carbon footprint and contributing to a healthier planet. \n Happy Walking :)";
                             document.getElementById('bestWayContent').innerText = text;
                             document.getElementById('bestWay').style.display = 'block';
                             handleSpeechSynthesis();
@@ -809,7 +809,7 @@
                         var cyclingTimeInSeconds = cyclingDirections.geojson.getFeatures().features[0].properties.summary.travelTimeInSeconds;
                         
                         if (cyclingTimeInSeconds <= 3600) {
-                            text = "Cycling is the Optimal mode to reach your destination. \n You can arrive in " + (cyclingTimeInSeconds/3600).toFixed(2) + " minutes and also burn " + ((walkingTimeInSeconds/60)*6.5).toFixed(2) + "calories on your journey. \n By choosing to cycle, you're helping to decrease your carbon footprint, reducing traffic congestion and supporting a healthier planet. Enjoy the ride and the positive impact you're making. \n Happy Cycling! 🚴";
+                            text = "Cycling is the Optimal mode to reach your destination. \n You can arrive in " + (cyclingTimeInSeconds/3600).toFixed(2) + " minutes and also burn " + ((walkingTimeInSeconds/60)*6.5).toFixed(2) + " calories on your journey. \n By choosing to cycle, you're helping to decrease your carbon footprint, reducing traffic congestion and supporting a healthier planet. Enjoy the ride and the positive impact you're making. \n Happy Cycling! 🚴";
                             document.getElementById('bestWayContent').innerText = text;
                             document.getElementById('bestWay').style.display = 'block';
                             handleSpeechSynthesis();
@@ -823,7 +823,7 @@
                     
                     if((localTime + bikeTimeInSeconds/3600) <= 22 && localTime >= 6){
                         if (bikeTimeInSeconds <= 10800) {
-                            text = "Bike is the Optimal mode to reach your destination. \n You can arrive in " + (bikeTimeInSeconds/3600).toFixed(2) + "hrs and also biking releases 53% less carbon footprint than a car, making it a better choice. \n Happy Biking!🚴‍♂️"; 
+                            text = "Bike is the Optimal mode to reach your destination. \n You can arrive in " + (bikeTimeInSeconds/3600).toFixed(2) + " hrs and also biking releases 53% less carbon footprint than a car, making it a better choice. \n Happy Biking!🚴‍♂️"; 
                             document.getElementById('bestWayContent').innerText = text;
                             document.getElementById('bestWay').style.display = 'block';
                             handleSpeechSynthesis();
