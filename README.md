@@ -130,6 +130,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of results of search for location : Eiffel Tower.</b>
 
 ![search](https://github.com/shreshtapadala/SmartMaps/assets/109150089/171c08c9-9fd2-438d-9350-c94d6641e52c)
+When the user searches for a location, all the related places are displayed and user can click on those points for more information of that place.
 
 <br>
 <br>
@@ -137,6 +138,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of Weather forecast of Location : Secunderabad.</b>
 
 ![weather_forecast](https://github.com/shreshtapadala/SmartMaps/assets/109150089/7f6dedc2-e8f8-4d2d-ba15-c3ba85fe3d98)
+User can right click on any place on the map, for weather forecast of that location. 
 
 <br>
 <br>
@@ -144,6 +146,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Car. </b> (Calculate Route Button)
 
 ![travel_mode_car](https://github.com/shreshtapadala/SmartMaps/assets/109150089/130890a8-0315-485a-b5e5-8d23884ad622)
+For this project, i've assumed that the carbon footprint is 216 grams of CO2 per km for a car.
 
 <br>
 <br>
@@ -151,6 +154,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Bike. </b> (Calculate Route Button)
 
 ![travel_mode_bike](https://github.com/shreshtapadala/SmartMaps/assets/109150089/2e89598a-c4bf-434c-926d-3690d41e3e19)
+For this project, I've assumed that the carbon footprint is 120 grams per km for a bike.
 
 <br>
 <br>
@@ -158,6 +162,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Cycling. </b> (Calculate Route Button)
 
 ![travel_mode_cycling](https://github.com/shreshtapadala/SmartMaps/assets/109150089/e3d45835-8745-4cbe-9c86-ea939611bdb8)
+Cycling has 0 carbon footprint, as i've only considered direct emissions in this project.
 
 <br>
 <br>
@@ -165,6 +170,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar and travel mode is Walking. </b> (Calculate Route Button) 
 
 ![travel_mode_walking](https://github.com/shreshtapadala/SmartMaps/assets/109150089/6dddba85-fcb6-4a6e-ad7a-557360d06cb1)
+Walking has 0 carbon footprint, as i've only considered direct emissions in this project.
 
 <br>
 <br>
@@ -172,6 +178,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of results of navigation for Start location : Kukatpalli and End Location : LB Nagar for all routes. </b> (Show All routes button)
 
 ![show_all_routes](https://github.com/shreshtapadala/SmartMaps/assets/109150089/d7790198-d7d3-4225-88fa-925f4da1a290)
+The emojis are used only for easy identification for the user. The Blue Line is for Car Route, the Purple Line is for Bike Route, the Yellow Route is for Cycling Route, the Dotted Brown Line is for Walking Route.
 
 <br>
 <br>
@@ -179,6 +186,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b>Screenshot of results of Optimal Way to travel for Start location : Kukatpalli and End Location : LB Nagar </b> (Best Way Button)
 
 ![best_way](https://github.com/shreshtapadala/SmartMaps/assets/109150089/a179b62d-837a-4ec4-8a05-7daad52afc0a)
+Bike is recommended as the Optimal route.
 
 <br>
 <br>
@@ -186,6 +194,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b>Screenshot of results of Optimal Way to travel for Start location : Mumbai and End Location : Hyderabad </b> (Best Way Button)
 
 ![best_way2](https://github.com/shreshtapadala/SmartMaps/assets/109150089/82b0c006-69de-4d62-b67c-863e7f8833e0)
+Car is recommended as the Optimal route.
 
 <br>
 <br>
@@ -193,6 +202,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of results of Optimal Way to travel for Start location : New Delhi and End Location : Noida </b> (Best Way Button)
 
 ![best_way3](https://github.com/shreshtapadala/SmartMaps/assets/109150089/97c6eadc-6572-45bb-b2ed-32380cad8737)
+Cycling is recommended as the Optimal Route.
 
 <br>
 <br>
@@ -200,6 +210,12 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of results of Optimal Way to travel for Start location : Rashtrapati Bhavan and End Location : India Gate </b> (Best Way Button)
 
 ![best_way4](https://github.com/shreshtapadala/SmartMaps/assets/109150089/b42fbf48-12a2-4d8a-9517-38e92d8b7486)
+Walking is recommended as the Optimal Route.
+
+<br>
+<br>
+
+We can see that the Optimal Route is recommended based on the distance between the start and end locations, the estimated time to reach the destination and the carbon footprint of travel routes.
 
 <br>
 <br>
@@ -207,6 +223,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of the Different Map Styles that are avaliable for users to select. </b>
 
 ![map_styles](https://github.com/shreshtapadala/SmartMaps/assets/109150089/fd44a201-a3c3-432a-9f43-1f2881d76942)
+Users can change the Map Style by using this button and the avaliable Map Styles are Road, Satellite, Hybrid, Night, GreyScale (Light), Terra.
 
 <br>
 <br>
@@ -214,6 +231,7 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of the Traffic Flow Information displayed </b>
 
 ![traffic_flow](https://github.com/shreshtapadala/SmartMaps/assets/109150089/36dc218e-874f-4986-b164-61a1a0a03e81)
+The user can see Realtime traffic conditions on the map and can click on the icons for more details about the traffic situation in a specific area. This feature can be toggled on or off based on user's preference. User can also use other map controls below this for functions like Zooming In/Out, Adjusting Pitch, Rotating Maps.
 
 <br>
 <br>
@@ -221,6 +239,9 @@ SmartMaps addresses the crucial need for environmentally responsible travel by p
 - <b> Screenshot of the SmartMaps with the color of the Voice Assistant icon changed to LightBlue when enabled </b>
 
 ![voice_assistant](https://github.com/shreshtapadala/SmartMaps/assets/109150089/fee3bbe4-f598-4eac-aaf6-a776555f58a0)
+This Button activates the voice assistant.
 
 <br>
 <br>
+
+To Summarize, SmartMaps not only provides the user with Traditional Navigation features but also enhances their travel experience by promoting eco-friendly practices.
