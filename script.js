@@ -449,7 +449,7 @@ async function calculateRoute() {
         var carbonFP = '';
         switch (travelMode) {
             case 'car':
-                carbonFP = (carbonFootprint).toFixed(2) * 216 + " grams of CO₂"; 
+                carbonFP = (carbonFootprint * 216).toFixed(2) + " grams of CO₂"; 
                 document.getElementById('carbonfootprint').innerText = carbonFP
                 break;
             case 'cycling':
