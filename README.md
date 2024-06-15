@@ -44,10 +44,8 @@ The core idea of SmartMaps is to revolutionize how people navigate their travel 
 - Location Search
 - Different Map Styles
 - Traffic Flow Information
-- Zooming In/Out
-- Adjusting Pitch
-- Rotating Maps
-
+- Map Controls (Zooming In/Out, Adjusting Pitch, Rotating Map)
+  
 #### Environmental Awareness Features :
 
 - Carbon Footprint Calculation for Different Travel Routes
