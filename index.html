@@ -795,7 +795,7 @@
                         var walkingTimeInSeconds = walkingDirections.geojson.getFeatures().features[0].properties.summary.travelTimeInSeconds;
 
                         if (walkingTimeInSeconds <= 3600 ) {
-                            text = "Walking is the Optimal mode to reach your destination.\n You can reach your destination in " + (walkingTimeInSeconds/3600).toFixed(2) + "minutes and also burn " + ((walkingTimeInSeconds/60)*4).toFixed(2) + "calories on your journey.\n By choosing to walk, you're making a positive impact on the environment by reducing carbon footprint and contributing to a healthier planet. <\br> Happy Walking :)";
+                            text = "Walking is the Optimal mode to reach your destination.\n You can reach your destination in " + (walkingTimeInSeconds/3600).toFixed(2) + "minutes and also burn " + ((walkingTimeInSeconds/60)*4).toFixed(2) + "calories on your journey.\n By choosing to walk, you're making a positive impact on the environment by reducing carbon footprint and contributing to a healthier planet. \n Happy Walking :)";
                             document.getElementById('bestWayContent').innerText = text;
                             document.getElementById('bestWay').style.display = 'block';
                             handleSpeechSynthesis();
