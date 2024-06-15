@@ -186,7 +186,7 @@ The emojis are used only for easy identification for the user. The Blue Line is 
 - <b>Screenshot of results of Optimal Way to travel for Start location : Kukatpalli and End Location : LB Nagar </b> (Best Way Button)
 
 ![best_way](https://github.com/shreshtapadala/SmartMaps/assets/109150089/a179b62d-837a-4ec4-8a05-7daad52afc0a)
-Bike is recommended as the Optimal route.
+Bike is recommended as the Optimal route to reach destination.
 
 <br>
 <br>
@@ -194,7 +194,7 @@ Bike is recommended as the Optimal route.
 - <b>Screenshot of results of Optimal Way to travel for Start location : Mumbai and End Location : Hyderabad </b> (Best Way Button)
 
 ![best_way2](https://github.com/shreshtapadala/SmartMaps/assets/109150089/82b0c006-69de-4d62-b67c-863e7f8833e0)
-Car is recommended as the Optimal route.
+Car is recommended as the Optimal route to reach destination.
 
 <br>
 <br>
@@ -202,7 +202,7 @@ Car is recommended as the Optimal route.
 - <b> Screenshot of results of Optimal Way to travel for Start location : New Delhi and End Location : Noida </b> (Best Way Button)
 
 ![best_way3](https://github.com/shreshtapadala/SmartMaps/assets/109150089/97c6eadc-6572-45bb-b2ed-32380cad8737)
-Cycling is recommended as the Optimal Route.
+Cycling is recommended as the Optimal Route ro reach destination.
 
 <br>
 <br>
@@ -210,7 +210,7 @@ Cycling is recommended as the Optimal Route.
 - <b> Screenshot of results of Optimal Way to travel for Start location : Rashtrapati Bhavan and End Location : India Gate </b> (Best Way Button)
 
 ![best_way4](https://github.com/shreshtapadala/SmartMaps/assets/109150089/b42fbf48-12a2-4d8a-9517-38e92d8b7486)
-Walking is recommended as the Optimal Route.
+Walking is recommended as the Optimal Route to reach destination
 
 <br>
 <br>
